@@ -152,6 +152,3 @@ public class MSButton
     return flagged;
   }
 }
-        return flagged;
-    }
-}
